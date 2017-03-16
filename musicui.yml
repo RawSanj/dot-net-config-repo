@@ -6,5 +6,5 @@ mysql:
     database: steeltoe2
     username: root
     password: steeltoe
-DefaultAdminUsername: Administrator@test.com
-DefaultAdminPassword: YouShouldChangeThisPassword1!
+DefaultAdminUsername: admin@test.com
+DefaultAdminPassword: Adm1nPa$$
