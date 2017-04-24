@@ -18,3 +18,7 @@ mysql:
 redis:
   client:
     host: localhost
+
+Description: This is my demo application
+
+Url: https://rawsanj.com
